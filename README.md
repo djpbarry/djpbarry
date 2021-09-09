@@ -3,4 +3,6 @@
 
 <p>Turns out I use Java a lot...</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djpbarry)](https://github.com/djpbarry/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djpbarry&layout=compact)
+
+![djpbarry's GitHub stats](https://github-readme-stats.vercel.app/api?username=djpbarry&hide=issues,contribs)
