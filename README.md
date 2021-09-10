@@ -5,6 +5,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djpbarry&layout=compact)
 
-![djpbarry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=djpbarry&layout=compact)
+![djpbarry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=djpbarry)
 
 ![djpbarry's GitHub stats](https://github-readme-stats.vercel.app/api?username=djpbarry&hide=issues,contribs)
