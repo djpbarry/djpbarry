@@ -3,8 +3,8 @@
 
 <p>Turns out I use Java a lot...</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djpbarry&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djpbarry&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![djpbarry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=djpbarry)
+[![djpbarry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=djpbarry&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![djpbarry's GitHub stats](https://github-readme-stats.vercel.app/api?username=djpbarry&hide=issues,contribs)
+[![djpbarry's GitHub stats](https://github-readme-stats.vercel.app/api?username=djpbarry&hide=issues,contribs&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
