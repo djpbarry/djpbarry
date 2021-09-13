@@ -7,4 +7,4 @@
 
 [![djpbarry's GitHub stats](https://github-readme-stats.vercel.app/api?username=djpbarry&hide=issues,contribs&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://wakatime.com/share/@djpbarry/1766bcbf-2bcf-4028-85d2-dd056a01dd3f.svg" width="500">
+<img src="https://wakatime.com/share/@djpbarry/a55acfce-0e01-4a56-95e8-8b172ed0ad4c.svg" width="500">
