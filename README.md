@@ -1,8 +1,9 @@
-<h1>Dave Barry</h1>
-<h3>BioImage Analysis Lead @ <a href="https://www.crick.ac.uk/">The Crick</a></h3>
+# Dave Barry
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djpbarry&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### AI & computational methods for life sciences · [The Francis Crick Institute](https://www.crick.ac.uk/)
 
-<!-- [![djpbarry's GitHub stats](https://github-readme-stats.vercel.app/api?username=djpbarry&hide=issues,contribs&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+I lead the image analysis team at the Crick, building the computational methods that help 100+ research groups turn complex biomedical data into quantitative insight - primarily imaging, increasingly spatial omics. I'm also establishing UK-BIAS, a national virtual bioimage-analysis service pooling analysts across ten UK institutions.
 
-<a href="https://wakatime.com/@djpbarry"><img src="https://wakatime.com/share/@djpbarry/324923cf-4d47-420e-947e-91457d310f1c.svg" width="500"><a>
+Most of what's here is open-source tooling for quantitative bioimage analysis, plus training and reproducibility material. Built to be FAIR, open, and actually usable by experimental biologists.
+
+[Website](https://www.david-j-barry.com/) · [ORCID](https://orcid.org/0000-0003-2763-5244) · [LinkedIn](https://www.linkedin.com/in/dave-j-barry)
